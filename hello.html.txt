@@ -6,6 +6,9 @@
 console.log("Hello world!");
 console.log("Hello world!");
 console.log("Hello world!");
+console.log("test!");
+console.log("Hello world!");
+console.log("Hello world!");
 
 </script>
 </body>
